@@ -70,3 +70,9 @@ bunny.cdn.hostname=vz-example-e.b-cdn.net
 bunny.apiKey=12345678-1234-1234-1234-123456789123
 bunny.token.security.key=12345678-1234-1234-1234-123456789123
 ```
+
+## Bunny.net official documentation
+
+- https://docs.bunny.net
+- https://docs.bunny.net/docs/getting-started-with-bunnynet
+- https://docs.bunny.net/reference/bunnynet-api-overview
